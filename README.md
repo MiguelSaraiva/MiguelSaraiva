@@ -9,7 +9,7 @@ I have a passion for working with data and using it to tell stories and drive de
 - Cleaning and preprocessing data
 - Exploring and visualizing data
 - Building and evaluating predictive models
-- Communicating insights to stakeholders
+- Communicating insights
 
 ## Skills
 
