@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**MiguelSaraiva/MiguelSaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Miguel Saraiva. I am a 22-year-old data analyst from Portugal.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a passion for working with data and using it to tell stories and drive decisions. My experience includes:
+
+- Cleaning and preprocessing data
+- Exploring and visualizing data
+- Building and evaluating predictive models
+- Communicating insights to stakeholders
+
+## Skills
+
+- Python
+- SQL
+- Data Cleaning and Preprocessing
+- Data Visualization
+- Machine Learning
+
+## Contact Me
+
+- LinkedIn: [Miguel Saraiva](https://www.linkedin.com/in/miguelsaraiva361/)
+- Email: [miguelmmsaraiva1@gmail.com]()
