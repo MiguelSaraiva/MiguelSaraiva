@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Miguel Saraiva. I am a 22-year-old data analyst from Portugal.
+My name is Miguel Saraiva. I am a 23-year-old data analyst from Portugal.
 
 ## About Me
 
